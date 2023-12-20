@@ -8,6 +8,7 @@ Welcome to the OpenHouse Management Project! This project is designed to help yo
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Insights](#insights)
 
 ## Features
 
@@ -56,3 +57,13 @@ To get started with the OpenHouse Management Project, follow these steps:
 2. **Explore the Dashboard:**
    - Explore the features based on your user role.
    - Create projects, assign tables, and manage open house details.
+
+## Insights
+- **Centralized Project Management:** The platform provides a centralized system for managing FYP projects, making it easy for administrators, evaluators, and students to access and review project details.
+- **Role-Based Access:** Different user roles (e.g., administrators, evaluators, and students) ensure that each user has the appropriate level of access and functionality. Administrators can oversee the entire evaluation process, while evaluators and students have access to functionalities relevant to their roles.
+- **Project Information Confidentiality:** Only authorized users (administrators, evaluators, and students) have access to specific information based on their roles.
+- **Efficient Table Assignment:** The platform streamlines the process of allocating tables, reducing administrative overhead.
+- **User-Friendly Dashboards:** Intuitive dashboards for administrators, evaluators, and students enhance user experience.
+- **Secure User Authentication:** The platform employs secure user authentication mechanisms, ensuring that only authorized users can access sensitive information related to FYP projects.
+##Note: The project uses dummy data generated using faker.
+  
