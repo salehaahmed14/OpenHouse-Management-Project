@@ -65,5 +65,6 @@ To get started with the OpenHouse Management Project, follow these steps:
 - **Efficient Table Assignment:** The platform streamlines the process of allocating tables, reducing administrative overhead.
 - **User-Friendly Dashboards:** Intuitive dashboards for administrators, evaluators, and students enhance user experience.
 - **Secure User Authentication:** The platform employs secure user authentication mechanisms, ensuring that only authorized users can access sensitive information related to FYP projects.
-##Note: The project uses dummy data generated using faker.
+  
+## Note: The project uses dummy data generated using faker.
   
