@@ -8,8 +8,6 @@ Welcome to the OpenHouse Management Project! This project is designed to help yo
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
