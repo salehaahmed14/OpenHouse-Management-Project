@@ -55,12 +55,6 @@ To get started with the OpenHouse Management Project, follow these steps:
    Visit [http://localhost:8000](http://localhost:8000) in your web browser.
    You will be presented with the Login Page. Use Credentials from users table (can be viewed by navigating to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) in the Database to Login.
 
-3. **Login:**
-   - Use the default login credentials or register a new account.
-   - Administrator: admin@example.com / password
-   - Evaluator: evaluator@example.com / password
-   - Student: student@example.com / password
-
-4. **Explore the Dashboard:**
+2. **Explore the Dashboard:**
    - Explore the features based on your user role.
    - Create projects, assign tables, and manage open house details.
